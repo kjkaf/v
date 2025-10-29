@@ -1,4 +1,4 @@
-{
+
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#کانفیگ رایگان
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRN1hwcGg2MHhOQkdRbFlsUHA0Y3pj@77.83.246.74:443#کانفیگ رایگان
     ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#کانفیگ رایگان
